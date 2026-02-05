@@ -3,6 +3,9 @@
 
 **gjrmd953/gjrmd953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🚀 Frontend Developer | React Enthusiast | UI Focused
+
+I’m a passionate Frontend Developer who loves building clean, responsive, and user-friendly web applications using modern technologies.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 ⭐ If you like my work, don’t forget to follow & star my repositories!
+
