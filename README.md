@@ -25,7 +25,7 @@ I’m a passionate Frontend Developer who loves building **clean, responsive, an
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 🔭 Current Work
 
 - Building real-world **React projects**
 - Improving **responsive UI & component structure**
@@ -36,7 +36,7 @@ I’m a passionate Frontend Developer who loves building **clean, responsive, an
 ## 🤝 Collaboration
 
 - 👯 Open to collaborating on **Frontend / React projects**
-- 🤔 Looking for help with **advanced React & performance optimization**
+- 🤔 Looking for guidance on **advanced React & performance optimization**
 
 ---
 
@@ -44,13 +44,13 @@ I’m a passionate Frontend Developer who loves building **clean, responsive, an
 
 - React & component-based UI  
 - Tailwind / CSS layouts  
-- Git & GitHub  
+- Git & GitHub basics  
 
 ---
 
 ## 📫 How to Reach Me
 
-- GitHub: https://github.com/gjrmd953
+- GitHub: [https://github.com/gjrmd953](https://github.com/gjrmd953)
 
 ---
 
